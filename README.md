@@ -1,2 +1,2 @@
 # Desafio Técnico
-Implementei uma função que recebe um número inteiro positivo e retorna o somatório de todos os valores inteiros divisíveis por 3 ou 5 que sejam inferiores ao número passado.
+Para executar este projeto, basta baixar o arquivo ZIP, extrair a pasta e, em seguida, abrir o arquivo index.html no seu navegador preferido. Agora, você pode realizar os testes interativos e explorar o funcionamento da aplicação.
